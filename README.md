@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, It's Nisa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisanurbaydas&label=Profile%20views&color=0eb429&style=flat-square" alt="nisanurbaydas" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisanurbaydas&label=Profile%20views&color=0eb429&style=flat-square" alt="nisanurbaydas" /> </p>-->
 
 - 🌱 I’m currently learning **Node.js**
 
